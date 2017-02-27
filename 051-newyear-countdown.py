@@ -42,3 +42,5 @@ months += datetime.now().day
 
 print('С начала года прошло дней: ', dayspass)
 print('До нового года осталось дней: ', yeard-dayspass)
+
+
