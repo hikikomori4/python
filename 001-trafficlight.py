@@ -33,6 +33,6 @@ def light():
 print('Цвет светофора: ',light())
 
 
-
+print ('Green' if (datetime.now().minute % 5) < 3 else 'Red')
 
 
